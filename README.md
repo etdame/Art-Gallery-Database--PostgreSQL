@@ -1,1 +1,2 @@
-Database for an Art Gallery Website
+PostgreSQL Database for an Art Gallery Website
+Made in DBeaver
